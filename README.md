@@ -21,7 +21,8 @@ model.fit(x_train, y_train)
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
     │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
+    │   ├── raw            <- The original, immutable data dump.
+    │   └── submissions    <- All submissions
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
@@ -34,7 +35,7 @@ model.fit(x_train, y_train)
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
-    │    │
+    │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 ---
