@@ -61,3 +61,6 @@
                               созданный с помощью `pip freeze > requirements.txt`.
 
 <p><small>Проект основан на <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">шаблоне проекта DS Cookiecutter</a>. #cookiecutterdatascience</small></p>
+
+![photo_2024-05-02_23-32-09](https://github.com/Flyer-DM/Alfa-hak/assets/113033685/68b7a666-d6ce-4af1-864d-667b8a8fa400)
+
